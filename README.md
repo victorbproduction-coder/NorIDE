@@ -9,7 +9,7 @@ NorIDE features compatability for:
 ****
 • General-Purpose & Systems Languages:
 Python, JavaScript, TypeScript, C++, C, C#, Go, Rust, Swift, Assembly
-• Scripting & Data Science Languages:
+• Scripting & Data Science Languages:\n
 Lua, PHP, Ruby, Ruby on Rails, Perl, R ,Shell (automatically locates Git Bash on Windows)
 • Web, Data & Query Languages (Opens automatically in browser):
 HTML, CSS
