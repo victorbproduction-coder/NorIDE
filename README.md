@@ -15,7 +15,7 @@ Lua, PHP, Ruby, Ruby on Rails, Perl, R ,Shell (automatically locates Git Bash on
 • Web, Data & Query Languages (Opens automatically in browser):\
 HTML, CSS\
 •Data & Query Languages & Other:\
-SQL, JSON, YAML, XML, Plain Text\
+SQL, JSON, YAML, XML, Plain Text
 ****
 
 # How to run the program
