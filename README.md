@@ -21,7 +21,7 @@ SQL, JSON, YAML, XML, Plain Text\
 # How to run the program
 1. Download the files and dezip the folder\
 2. Open the 'dist' folder and run the 'NorIDE.exe' file\
-3. Enjoy!\
+3. Enjoy!
 ****
 # Images
 <img width="936" height="746" alt="Screenshot 2026-11-15 193244" src="https://github.com/user-attachments/assets/d39d41e2-981a-4265-9cc6-c8d87e2c84fb" />
