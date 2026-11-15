@@ -6,6 +6,7 @@ A Lightweight, versatile IDE for beginners to experienced coders!
 # What does NorIDE actually do?
 NorIDE is a versatile IDE deigned to be as versatile as possible, while having a sleek and minimalistic GUI. The program can create, open, edit, run and save files from multiple languages. 
 NorIDE features compatability for:
+****
 • General-Purpose & Systems Languages:
 Python, JavaScript, TypeScript, C++, C, C#, Go, Rust, Swift, Assembly
 • Scripting & Data Science Languages:
